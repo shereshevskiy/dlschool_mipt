@@ -2,7 +2,8 @@
 # the files and directories starting from '_'
 __*/
 __*
-
+catboost_info/
+*.csv
 # Created by https://www.gitignore.io/api/python,pycharm,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=python,pycharm,jupyternotebooks
 
