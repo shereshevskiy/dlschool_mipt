@@ -1,7 +1,7 @@
 # my rules
 # the files and directories starting from '_'
-__*/
-__*
+___*/
+___*
 catboost_info/
 *.csv
 # Created by https://www.gitignore.io/api/python,pycharm,jupyternotebooks
