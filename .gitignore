@@ -5,6 +5,7 @@ ___*
 *.zip
 catboost_info/
 *.csv
+*.txt
 # Created by https://www.gitignore.io/api/python,pycharm,jupyternotebooks
 # Edit at https://www.gitignore.io/?templates=python,pycharm,jupyternotebooks
 
